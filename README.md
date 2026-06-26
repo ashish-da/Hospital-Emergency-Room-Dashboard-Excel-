@@ -69,3 +69,6 @@ Patient satisfaction score averages 4.8/5.
 Most patients require no department referral.
 Female and male patient counts are almost equal.
 Around 40% of patients experienced delays.
+
+<img width="1291" height="521" alt="Hospital project" src="https://github.com/user-attachments/assets/d699a914-923b-4556-a15c-4cd280a15d2d" />
+
